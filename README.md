@@ -21,3 +21,6 @@
 - [🤖 Trading Signal Bot](link): Python + Pandas (WIP)
 
 - ![Dashboard](Dashboardpreview.png)  
+
+### 📂 Data  
+- Synthetic sales data (10K+ rows) generated with Python.  
