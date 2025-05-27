@@ -1,8 +1,14 @@
 # 📊 Sales Analytics Dashboard  
-*Power BI dashboard analyzing regional sales performance*  
-🚧 **Work in Progress**  
-- [ ] Connect to live data  
-- [ ] Build interactive visuals  
-- [ ] Add DAX measures  
+*Interactive Power BI dashboard tracking regional sales performance*  
 
-🔧 **Skills Showcased**: Power BI, DAX, Data Modeling  
+![Dashboard Preview](dashboard-preview.png)  
+
+## Features  
+- **Dynamic filters** by region  
+- **Mobile-optimized** layout  
+- **10K+ records** analyzed  
+
+## Tools  
+- Power BI  
+- DAX  
+- Python (data generation)  
