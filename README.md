@@ -1,7 +1,7 @@
 # 📊 Sales Analytics Dashboard  
 *Interactive Power BI dashboard tracking regional sales performance*  
 
-![Dashboard Preview](dashboard-preview.png)  
+![Dashboard Preview](dashboard-preview.jpg)  
 
 ## Features  
 - **Dynamic filters** by region  
