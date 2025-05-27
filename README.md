@@ -12,3 +12,6 @@
 - Power BI  
 - DAX  
 - Python (data generation)  
+
+## Data Sources  
+- Synthetic sales data (10K+ rows) generated with Python.  
