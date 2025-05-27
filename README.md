@@ -1,6 +1,5 @@
-# 📊 Sales Dashboard  
-*Power BI project analyzing sales trends*  
-
+# 📊 Sales Analytics Dashboard  
+*Power BI dashboard analyzing regional sales performance*  
 🚧 **Work in Progress**  
 - [ ] Connect to live data  
 - [ ] Build interactive visuals  
