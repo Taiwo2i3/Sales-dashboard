@@ -18,4 +18,6 @@
 
 ### 🔥 Featured Projects  
 - [📊 Sales Dashboard](https://github.com/Taiwo2i3/Sales-dashboard): Power BI + DAX  
-- [🤖 Trading Signal Bot](link): Python + Pandas (WIP)  
+- [🤖 Trading Signal Bot](link): Python + Pandas (WIP)
+
+- ![Dashboard](Dashboardpreview.png)  
